@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicalterminology/static/css/main.e6c13ad2.css",
+    "main.js": "/medicalterminology/static/js/main.77752f72.js",
+    "index.html": "/medicalterminology/index.html",
+    "main.e6c13ad2.css.map": "/medicalterminology/static/css/main.e6c13ad2.css.map",
+    "main.77752f72.js.map": "/medicalterminology/static/js/main.77752f72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77752f72.js"
+  ]
+}
